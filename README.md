@@ -1,5 +1,7 @@
 # mcl\_cblocks for Mineclonia
 
+<img width="1919" height="905" alt="Captura de tela 2026-02-15 132528" src="https://github.com/user-attachments/assets/3666dbc5-5eaa-46d2-849b-4391a97c069e" />
+
 inspired to https://codeberg.org/tenplus1/cblocks
 
 diffs from tenplus1/cblocks:
@@ -38,4 +40,9 @@ mix dye with base block in crafting table
 * `mcl_stairs`
 
 # supports mcl_moreblocks
+
+https://github.com/user-attachments/assets/50cfdf18-4f74-444d-9923-968e02a31648
+
+
+
 
