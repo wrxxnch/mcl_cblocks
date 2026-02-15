@@ -33,9 +33,9 @@ mix dye with base block in crafting table
 
 ## Dependencies
 
-* `mcl\_core`
-* `mcl\_dyes`
-* `mcl\_stairs`
+* `mcl_core`
+* `mcl_dyes`
+* `mcl_stairs`
 
 # supports mcl_moreblocks
 
