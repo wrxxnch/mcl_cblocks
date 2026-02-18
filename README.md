@@ -1,6 +1,8 @@
 # mcl\_cblocks for Mineclonia
 
-<img width="1919" height="905" alt="Captura de tela 2026-02-15 132528" src="https://github.com/user-attachments/assets/3666dbc5-5eaa-46d2-849b-4391a97c069e" />
+<img width="1798" height="742" alt="image" src="https://github.com/user-attachments/assets/0a507738-fa42-44ef-93bd-4a0b50193f0a" />
+
+
 
 inspired to https://codeberg.org/tenplus1/cblocks
 
