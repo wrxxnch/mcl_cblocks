@@ -37,9 +37,9 @@ mix dye with base block in crafting table
 
 # supports mcl_moreblocks(mineclonia) and moreblocks and stairs(minetest)
 
-https://github.com/user-attachments/assets/50cfdf18-4f74-444d-9923-968e02a31648
-https://github.com/user-attachments/assets/5f2c148d-3ac5-491d-81d4-7cb4087bba09
+<video src="https://github.com/user-attachments/assets/50cfdf18-4f74-444d-9923-968e02a31648" controls width="600"></video>
 
+<video src="https://github.com/user-attachments/assets/5f2c148d-3ac5-491d-81d4-7cb4087bba09" controls width="600"></video>
 
 
 
